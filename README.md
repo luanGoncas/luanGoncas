@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou trabalhando com projetos de machine learning, mais especificamente com visão computacional
 - 🌱 Estou estudando tecnologias na linha de desenvolvimento Full Stack, como HTML, CSS, JavaScript, entre outras
-- 😄 Pronomes: Ele/dele
+- 😄 Gosto de café, games, piadas ruins e tecnologia
 ##
 <div>
   <a href="https://github.com/luanGoncas">
