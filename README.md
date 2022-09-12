@@ -1,6 +1,5 @@
 ### Oi, eu sou o não sou o Goku! Bem vindo ao meu perfil do GitHub 👋
 
-- 🔭 Hoje estou trabalhando com projetos de machine learning, mais especificamente com visão computacional
 - 🌱 Estou estudando tecnologias na linha de desenvolvimento Full Stack, como HTML, CSS, JavaScript, entre outras
 - 😄 Gosto de café, games, piadas ruins e tecnologia
 ##
