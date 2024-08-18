@@ -1,6 +1,6 @@
 ### Oi, eu sou o não sou o Goku! Bem vindo ao meu perfil do GitHub 👋
 
-- 🌱 Estou estudando tecnologias na linha de desenvolvimento Full Stack, como HTML, CSS, JavaScript, entre outras
+- 🌱 Sou desenvolvedor Full Stack, trabalhando no front-end com HTML, CSS, JavaScript, mas com ênfase em back-end com Python
 - 😄 Gosto de café, games, piadas ruins e tecnologia
 ##
 <div>
