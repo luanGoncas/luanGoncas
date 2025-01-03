@@ -1,7 +1,10 @@
-### Oi, eu sou o não sou o Goku! Bem vindo ao meu perfil do GitHub 👋
+### Oi! Bem vindo ao meu perfil do GitHub 👋
 
 - 🌱 Sou desenvolvedor Full Stack, trabalhando no front-end com HTML, CSS, JavaScript, mas com ênfase em back-end com Python
+- 🎓 Sou formado em Engenharia de Computação pelo Instituto Federal de Minas Gerais - Campus Bambuí
+- 💻 Estou buscando oportunidades na área de desenvolvimento web com Python no back-end
 - 😄 Gosto de café, games, piadas ruins e tecnologia
+- :octocat: Sinta-se livre para colaborar com meus repositórios
 ##
 <div>
   <a href="https://github.com/luanGoncas">
